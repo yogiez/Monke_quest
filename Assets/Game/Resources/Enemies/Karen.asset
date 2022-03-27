@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b8e765f876d23a4e969c4343480f49b, type: 3}
+  m_Name: Karen
+  m_EditorClassIdentifier: 
+  name: Karen
+  description: 
+  frontSprite: {fileID: -917796705051436106, guid: c425a81ec2eca474ebc9a44dafaefada,
+    type: 3}
+  playerSprite: {fileID: 0}
+  type1: 2
+  maxHp: 130
+  attack: 35
+  defense: 10
+  speed: 20
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 5ef31e6bf6eda36428c06b556e89b0bb, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: e9a2590bd99789846af7246c12371aa4, type: 2}
+    level: 2
+  - moveBase: {fileID: 11400000, guid: 91cfe8d84c4e06145859fdd0d0b6d471, type: 2}
+    level: 3

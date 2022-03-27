@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b8e765f876d23a4e969c4343480f49b, type: 3}
+  m_Name: Chad
+  m_EditorClassIdentifier: 
+  name: Chad
+  description: 
+  frontSprite: {fileID: -7767761301985670045, guid: c425a81ec2eca474ebc9a44dafaefada,
+    type: 3}
+  playerSprite: {fileID: 0}
+  type1: 3
+  maxHp: 90
+  attack: 40
+  defense: 35
+  speed: 15
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 91cfe8d84c4e06145859fdd0d0b6d471, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 3cefdd72cf921994d94fd27a8d111f6c, type: 2}
+    level: 2
+  - moveBase: {fileID: 11400000, guid: 0d20d05552e82f144836872ea6eb2745, type: 2}
+    level: 3

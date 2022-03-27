@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - SolidObjects
+  - LongGrass
+  - Torch
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: InvisableWalls
+    uniqueID: 3685621563
+    locked: 0
+  - name: Background
+    uniqueID: 763657319
+    locked: 0
+  - name: Foreground
+    uniqueID: 1558057277
+    locked: 0
+  - name: Torch
+    uniqueID: 2190301043
+    locked: 0
+  - name: Player
+    uniqueID: 2284767343
+    locked: 0
+  - name: Fade
+    uniqueID: 3681885651
+    locked: 0
